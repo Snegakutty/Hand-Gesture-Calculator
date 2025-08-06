@@ -33,9 +33,5 @@ Install the dependencies:
 ```bash
 pip install opencv-python mediapipe
 
----
 
-## 🚀 How to Run
-
-python app.py
 
